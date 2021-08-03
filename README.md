@@ -41,6 +41,8 @@
 ## What I've learned
 * How to use a Ros and use sensors and actuators using Ros.
 * Basic concepts of a steering.
+* How to work on a project in Ubuntu env.
+* Got more familiar with Ubuntu.
 
 
 
