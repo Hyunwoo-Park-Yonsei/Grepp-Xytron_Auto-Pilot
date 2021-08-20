@@ -1,4 +1,4 @@
-# Programmers-Dev Auto-pilot 
+# Grepp - Xytron Auto-pilot Competition
 
 ## Final video
 [![self-walking_robot](http://img.youtube.com/vi/2LIYwCAGfMM/0.jpg)](https://www.youtube.com/watch?v=2LIYwCAGfMM&t=7s)
